@@ -12,7 +12,7 @@ d)	Display the generated credentials
 e)	Use parameterized constructor of class Employee, to pass firstName, lastName.
 f)	Create a separate CredentialService which will have generatePassword, generateEmailAddress, & showCredentials method.
 
-The project has 3 classes:
-1. Employee POJO class.
-2. Credential Service class for generating credentials.
-3. Driver class for the application
+The project has 3 Java classes present in the src folder:
+1. Employee POJO class.(Employee.java)
+2. Credential Service class for generating credentials.(CredentialService.java)
+3. Driver class for the application.(Driver.java)
